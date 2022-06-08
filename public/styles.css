@@ -39,6 +39,11 @@ div {
   justify-content: space-around;
 }
 
+.search {
+  display: flex;
+  margin-left: 5%;
+}
+
 img {
   width: 200px;
 }
